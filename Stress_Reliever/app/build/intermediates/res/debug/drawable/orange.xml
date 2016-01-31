@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<item>
+
+    <color android:color="#FF8000">
+
+    </color>
+
+</item>
+</selector><!-- From: file:/C:/Users/Jaskaran/Downloads/Stress_Reliever-2016-01-30/Stress_Reliever/app/src/main/res/drawable/orange.xml -->
